@@ -37,6 +37,7 @@
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "class-methods-use-this": "off",
+    "lines-between-class-members": "off",
     "import/prefer-default-export": "off",
     "import/extensions": [
       "error",
